@@ -1,3 +1,4 @@
+# Market Analyzer Website
 Allows user to input stock ticker symbols and it will output real-time information and historical data about the stock.
 
 Functionality and User Interface: Python, Flask, and HTML/CSS
