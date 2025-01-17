@@ -1,5 +1,5 @@
 # Market Analyzer Website
-Allows user to input stock ticker symbols and it will output real-time information and historical data about the stock.
+Description: Allows user to input stock ticker symbols and it will output real-time information and historical data about the stock.
 
 Functionality and User Interface: Python, Flask, and HTML/CSS
 
@@ -9,4 +9,4 @@ Data visualization/graphs: Matplotlib
 
 Website hosting and deployment: AWS Lighstail and Docker
 
-Market Analyzer Website: https://flask-service.ma4ws0tbytzza.us-east-1.cs.amazonlightsail.com/
+**Market Analyzer Website:** https://flask-service.ma4ws0tbytzza.us-east-1.cs.amazonlightsail.com/
