@@ -1,12 +1,24 @@
 # Market Analyzer Website
 **Description:** Allows user to input stock ticker symbols and it will output real-time information and historical data about the stock.
 
-**Functionality and User Interface:** Python, Flask, and HTML/CSS
+## Market Analyzer Website Link:
+[https://flask-service.ma4ws0tbytzza.us-east-1.cs.amazonlightsail.com/](https://flask-service.ma4ws0tbytzza.us-east-1.cs.amazonlightsail.com/)
 
-**Real-time data retrieval:** Alpha Vantage API
+- **Website hosting and deployment:** AWS Lighstail and Docker
 
-**Data visualization/graphs:** Matplotlib
+- **Functionality and User Interface:** Python, Flask, and HTML/CSS
 
-**Website hosting and deployment:** AWS Lighstail and Docker
+- **Real-time data retrieval:** Alpha Vantage API
 
-**Market Analyzer Website:** https://flask-service.ma4ws0tbytzza.us-east-1.cs.amazonlightsail.com/
+- **Data visualization/graphs:** Matplotlib
+
+## Initial Project Research (Prior to this project)
+
+- **Github Link:** [https://github.com/rdabbs88/StockMarketAnalyzer](https://github.com/rdabbs88/StockMarketAnalyzer)
+
+## UPDATED / IMPROVED Market Analyzer Website Link:
+[https://market-watch-beryl.vercel.app/](https://market-watch-beryl.vercel.app/)
+
+- **Github Link:** [https://github.com/rdabbs88/MarketWatch](https://github.com/rdabbs88/MarketWatch)
+
+- **Website hosting and deployment:** Vercel
